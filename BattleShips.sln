@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BattleShips", ".", "{1366AD49-3A56-4F94-BD74-11357D0BDA9B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52961"
+		Debug.AspNetCompiler.PhysicalPath = "..\BattleShips\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52961\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52961"
+		Release.AspNetCompiler.PhysicalPath = "..\BattleShips\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52961\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52961"
+		SlnRelativePath = "..\BattleShips\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1366AD49-3A56-4F94-BD74-11357D0BDA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1366AD49-3A56-4F94-BD74-11357D0BDA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85043FF7-26E2-41CA-AEAB-9DDF9B2CA818}
+	EndGlobalSection
+EndGlobal
